@@ -3,8 +3,9 @@
 🚀 **Senior Software Engineer** | 💡 Passionate about Backend Development | ☁️ Cloud Enthusiast  
 
 📍 **Bangalore, India**  
-📧 **Email:** [tanveer.ahmed.developer@gmail.com](mailto:tanveer.ahmed.developer@gmail.com)  
-🔗 **[LinkedIn](https://www.linkedin.com/in/tanveer-ahmed7815)** | 🔗 **[GitHub](https://github.com/Tanveer-ahmed7815)**  
+📧 **Email:** [tanveer.ahmed7815@gmail.com](mailto:tanveer.ahmed7815@gmail.com)  
+🔗 <a href="https://www.linkedin.com/in/tanveer-ahmed7815" target="_blank">LinkedIn</a> | 
+🔗 <a href="https://github.com/Tanveer-ahmed7815" target="_blank">GitHub</a>
 
 ---
 
