@@ -1,14 +1,64 @@
-<h1 align="center">Hi 👋, I'm Tanveer Ahmed</h1>
-<h3 align="center">Sr. Software Engineer | Java Full Stack Developer | Passionate about building scalable, efficient applications.</h3>
+# 👋 Hi, I'm Tanveer Ahmed
 
-- 🔭 I’m currently working on **Pegasus**
+🚀 **Senior Software Engineer** | 💡 Passionate about Backend Development | ☁️ Cloud Enthusiast  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tanveer_7815" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanveer_7815" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/tanveer-ahmed7815" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/tanveer-ahmed7815" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tanveer7815" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanveer7815" height="30" width="40" /></a>
-</p>
+📍 **Bangalore, India**  
+📧 **Email:** [tanveer.ahmed7815@gmail.com](mailto:tanveer.ahmed7815@@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/tanveer-ahmed7815](https://www.linkedin.com/in/tanveer-ahmed7815)  
+🔗 **GitHub:** [github.com/Tanveer-ahmed7815](https://github.com/Tanveer-ahmed7815?tab=repositories)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** Java, SQL, JavaScript
+- **Frameworks:** Spring Boot, Spring Batch, Spring Data JPA, Spring MVC  
+- **Tools & Platforms:** Docker, Jenkins, Git, CI/CD  
+- **Cloud & Infrastructure:** AWS, Ansible, Terraform, Chef  
+- **Messaging & Streaming:** Apache Kafka  
+- **Testing & Automation:** JUnit, Mockito  
+
+---
+
+## 💼 Work Experience
+
+### 🔹 Software Engineer II - Allstate India (01/2024 - Present)
+- Contributing to a payment processing application handling **$2-3 million** in transactions monthly.  
+- Engaged in **client interactions, demos, and production issue resolution**.  
+- Successfully met **project deadlines and goals**.  
+
+### 🔹 Software Developer - Test Yantra Software Solutions (10/2020 - 12/2023)
+- Led a team of **4 developers** and mentored junior engineers.  
+- Worked on projects for **Allstate and SLK Global Solutions**.  
+- Received a **Certificate of Appreciation** from leadership.  
+
+---
+
+## 🚀 Key Projects
+
+### 🏆 **Optimus - Allstate India (08/2022 - Present)**
+- Developed an **agent bonus/commission computation** module.  
+- Designed **APIs, database models**, and resolved technical roadblocks.  
+- Provided **final presentations** to business teams.  
+
+### 🏆 **Digitoonz HRMS (07/2021 - 06/2022)**
+- Built an **HR Management System** for employee and HR interactions.  
+- Conducted **requirement gathering and API design**.  
+
+---
+
+## 🎖️ Achievements
+
+🏅 **Certificate of Appreciation (2022)** - Recognized for contributions at Test Yantra.  
+
+---
+
+## 📊 GitHub Stats  
+
+![Tanveer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanveer-ahmed7815&show_icons=true&theme=radical)  
+
+---
+
+## 💬 Let's Connect!  
+
+📩 Feel free to reach out for collaboration or discussions on **backend development, cloud computing, and system design**!  
