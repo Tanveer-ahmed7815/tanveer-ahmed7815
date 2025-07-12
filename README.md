@@ -70,4 +70,4 @@
 ---
 
 ## 💬 Let's Connect!  
-📩 Feel free to reach out for collaboration or discussions on **backend development, cloud computing, and system design**!  
+📩 Feel free to reach out for collaboration or discussions on **App development, cloud computing, and system design**!  
