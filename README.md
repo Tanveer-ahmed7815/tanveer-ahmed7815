@@ -64,8 +64,8 @@
 
 ## 📊 GitHub Stats  
 
-![Tanveer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanveer-ahmed7815&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanveer-ahmed7815&layout=compact&theme=radical)  
+![Tanveer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanveer-ahmed7815&show_icons=true&theme=radical&cache_seconds=60)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanveer-ahmed7815&layout=compact&theme=radical&cache_seconds=60)
 
 ---
 
