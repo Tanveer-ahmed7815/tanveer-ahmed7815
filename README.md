@@ -94,8 +94,10 @@ Currently working on **high-value payment processing systems ($2–3M/month)** w
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tanveer-ahmed7815&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tanveer-ahmed7815&layout=compact&theme=radical" height="165"/>
+  <img 
+    src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/generated/overview.svg" 
+    height="165"
+  />
 </p>
 
 <p align="center">
