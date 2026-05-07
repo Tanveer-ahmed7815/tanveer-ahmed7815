@@ -56,8 +56,18 @@ Currently working on **high-value payment processing systems ($2–3M/month)** w
 
 ## 💼 Professional Experience
 
+### **Software Engineer III — Morgan Stanley**  
+📅 *May 2026 – Present*
+
+- 💰 Working on **Stock plans - Wealth management**
+- 🧩 Building and maintaining **scalable Spring Boot microservices**
+- 🎯 Delivered features on time while meeting quality and performance goals
+- 🧑‍💼 Actively involved in **client demos, discussions, and prod issue resolution**
+
+---
+
 ### **Software Engineer II — Allstate India**  
-📅 *Jan 2024 – Present*
+📅 *Jan 2024 – April 2026*
 
 - 💰 Working on **payment systems processing $2–3M/month**
 - 🧩 Building and maintaining **scalable Spring Boot microservices**
